@@ -1,4 +1,4 @@
-v align="center"> <h1 align="center"> Welcome to my GitHub repository! 🙂  👋 </h1> </div> 
+<div align="center"> <h1 align="center"> Welcome to my GitHub repository! 🙂  👋 </h1> </div> 
 
 <b>Hi, my name is Elena. I am a data professional.<b> 
 
@@ -10,11 +10,9 @@ v align="center"> <h1 align="center"> Welcome to my GitHub repository! 🙂  �
 
  
 
-<b>I have experience using these data analysis tools.<b> 
-
-<p align="center"> 
-
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a> 
+<b>I have experience using these data analysis tools.<b>
+<p align="center">
+<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
 
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a> 
 
