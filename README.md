@@ -1,7 +1,3 @@
- 
-
- 
-
 v align="center"> <h1 align="center"> Welcome to my GitHub repository! 🙂  👋 </h1> </div> 
 
 <b>Hi, my name is Elena. I am a data professional.<b> 
