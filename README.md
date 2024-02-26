@@ -58,29 +58,30 @@
 
  
 
-<div align="center"> <h1 align="center">  Let's connect  </h1> </div> 
+<div align="center">
+  <h1>Let's Connect</h1>
+</div>
 
-<p align="center">  
+<p align="center">
+  <a href="https://www.linkedin.com/in/elena-iurco-715b782a1/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/>
+  </a>
+  
+  <a href="https://public.tableau.com/app/profile/elena.iurco/vizzes" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" align="center"/>
+  </a>
+  
+  <a href="mailto:elena.iurco.ei@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" align="center"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/elena-iurco-715b782a1/"> 
 
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
-</a>  
 
-<a href="https://public.tableau.com/app/profile/elena.iurco/vizzes"> 
+  
+ 
 
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  /> 
-
-</a> 
-
-<a href="mailto:elena.iurco.ei@gmail.com">   
-
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  /> 
-
-</a> 
-
-</p> 
 
  
 
