@@ -1,6 +1,7 @@
 <div align="center"> <h1 align="center"> Welcome to my GitHub repository! 🙂  👋 </h1> </div> 
 
-<b>Hi, I'm Elena, a passionate data analyst with a strong focus on creating compelling visualizations that bring data to life. My journey in the realm of data analysis has equipped me with a diverse skill set, including data analysis, programming, database management, data visualization and statistical analysis.<b> 
+<b>Hi, I'm Elena, a passionate data analyst with a strong focus on creating compelling visualizations that bring data to life. 
+<br>My journey in the realm of data analysis has equipped me with a diverse skill set, including data analysis, programming, database management, data visualization and statistical analysis.<b> 
 
  <p></p> 
 
@@ -35,6 +36,7 @@
 
   <h1 align="center"> DATA VISUALIZATION  </h1>
 <b>I excel in transforming raw data into captivating visual narratives.</b>
+<br>
 <br>
 
 <p align="center">
