@@ -9,6 +9,8 @@
   <h1 align="center"> DATA ANALYSIS TOOLS </h1>
 </div>
 <b>Proficient in analyzing large datasets to identify trends, patterns, and correlations, using these powerful tools.</b>
+<br>
+
 <p align="center">
   <a href="https://www.w3schools.com/" onclick="window.open('https://www.w3schools.com/', '_self');">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/>
@@ -32,33 +34,31 @@
 
 
   <h1 align="center"> DATA VISUALIZATION  </h1>
-<b>I have also experience using these data visualization tools.</b>
+<b>I excel in transforming raw data into captivating visual narratives.</b>
+<br>
 
 <p align="center">
+ <a href="#" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/>
+  </a>
   <a href="#" target="_blank">
     <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/>
-  </a>
+  
 </p>
 
 
  
 
-<div align="center"> <h1 align="center">  SOCIAL  </h1> </div> 
+<div align="center"> <h1 align="center">  Let's connect  </h1> </div> 
 
-<b>Let's connect</b> 
-
-<p align="center"> 
-
- 
+<p align="center">  
 
 <a href="https://www.linkedin.com/in/elena-iurco-715b782a1/"> 
 
